@@ -13,7 +13,7 @@ from tensorflow import keras
 from tensorflow.keras import layers
 import numpy as np
 import matplotlib.pyplot as plt
-from load_process_mnist_data_flattened2 import *
+from load_process_mnist_data_flattened import *
 import math
 import time
 import functools
